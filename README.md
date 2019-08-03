@@ -5,13 +5,19 @@ Users can see how sin curves make an image.(recognize to click around the center
 
 # about look
 Window1:[1][2]
+
         [3][4]
+
 Window2:[f]
 
 [1] is an original image
+
 [2] is magunitude spectrum of [1]
+
 [3] is result of ifft2 made by [2] and [f]
+
 [4] is result of ifft2 made by [2] and current plot of [f]
+
 [f] is a filter : users can draw white point and line with mouse
 
 # about code
