@@ -44,7 +44,11 @@ other: functions
   - show other images as they are updated
   
 # library
+opencv(cv2)
+numpy
+matplotlib
 
+# reference
+about
 
-
-# referense
+https://algorithm.joho.info/programming/python/opencv-fft-low-pass-filter-py/
