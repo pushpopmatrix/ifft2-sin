@@ -64,3 +64,5 @@ how to draw figure to same window
 
 how to get mouse event
 - http://rasp.hateblo.jp/entry/2016/01/24/204539
+
+![demo](export.gif)
