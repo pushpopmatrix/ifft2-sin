@@ -49,6 +49,13 @@ numpy
 matplotlib
 
 # reference
-about
+followed the model
+- https://www.youtube.com/watch?v=qB0cffZpw-A
+how to show magnitude_spectrum
+- https://algorithm.joho.info/image-processing/fourier-transform/
+- http://labs.eecs.tottori-u.ac.jp/sd/Member/oyamada/OpenCV/html/py_tutorials/py_imgproc/py_transforms/py_fourier_transform/py_fourier_transform.html
+how to ifft2
+- https://algorithm.joho.info/programming/python/opencv-fft-low-pass-filter-py/
+how to draw figure to same window
+- https://qiita.com/ynakayama/items/8d3b1f7356da5bcbe9bc
 
-https://algorithm.joho.info/programming/python/opencv-fft-low-pass-filter-py/
