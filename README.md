@@ -4,7 +4,7 @@
   (recommend to click around the center of filter)
 - quit to ESC while choosing filter window
 
-# about look
+# about look and how to use
 Window1:
 
 [1][2]
@@ -43,3 +43,8 @@ other: functions
   - show original image and magnitude spectrum constantly
   - show other images as they are updated
   
+# library
+
+
+
+# referense
