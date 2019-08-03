@@ -2,7 +2,7 @@
 Two dimensional fast fourier transform and inverse fast fourier transform.
 Users can see how sin curves make an image.(recognize to click around the center of filter)
 
-# about the look
+# about look
 Window1:[1][2]
         [3][4]
 Window2:[f]
